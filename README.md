@@ -4,7 +4,7 @@ Korte opdracht ontvangen op 2 mei van CodeGorilla
 
 Steps to take:
 
-1. Create simple plan                                 DONE
+1. Create simple plan                                 -DONE-
 
 2. Make simple wireframe on paper according to plan
 
