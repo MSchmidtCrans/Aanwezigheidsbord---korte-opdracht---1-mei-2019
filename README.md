@@ -23,4 +23,4 @@ Steps to take:
 For each step I'll make a commit to Git.
 
 <img src="/afbeelding bord.jpg" width=250 heigth=250>
-<img src="/IMG_4242.jpg widht=250 heigth=250>
+<img src="/wireframe raw.JPEG" widht=250 heigth=250>
