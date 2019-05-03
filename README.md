@@ -21,3 +21,5 @@ Steps to take:
 8. Publish finished page to coaches
 
 For each step I'll make a commit to Git.
+
+
