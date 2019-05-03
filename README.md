@@ -22,4 +22,5 @@ Steps to take:
 
 For each step I'll make a commit to Git.
 
-<img src="/afbeelding bord.jpg">
+<img src="/afbeelding bord.jpg" width=250 heigth=250>
+<img src="/img_4241.jpg widht=250 heigth=250>
