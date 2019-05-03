@@ -22,4 +22,4 @@ Steps to take:
 
 For each step I'll make a commit to Git.
 
-<img src="supersmitty2018/Aanwezigheidsbord---korte-opdracht---1-mei-2019/afbeelding bord.jpg">
+<img src="/afbeelding bord.jpg">
