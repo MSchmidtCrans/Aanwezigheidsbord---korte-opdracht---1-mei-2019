@@ -6,7 +6,7 @@ Steps to take:
 
 1. Create simple plan                                 -DONE-
 
-2. Make simple wireframe on paper according to plan
+2. Make simple wireframe on paper according to plan   -DONE-
 
 3. Setup initial HTML file
 
@@ -23,4 +23,4 @@ Steps to take:
 For each step I'll make a commit to Git.
 
 <img src="/afbeelding bord.jpg" width=250 heigth=250>
-<img src="/IMG_4241.HEIC widht=250 heigth=250>
+<img src="/IMG_4242.jpg widht=250 heigth=250>
