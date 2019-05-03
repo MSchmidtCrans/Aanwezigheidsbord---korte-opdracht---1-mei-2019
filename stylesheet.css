@@ -6,13 +6,13 @@
 body {
     padding: 0px;
     margin: 0px;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 .mainContainer {
     background-image: url("muur.jpg");
     background-position: fixed;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 .boardContainer {
@@ -53,14 +53,14 @@ body {
     cursor: pointer;
     background-image: url("achtergrond-naamplaat.jpg");
     background-size: cover;
-    
+
 }
 
 .status{
     padding: 0px;
     margin: 0px;
 }
-  
+
 h2 {
     padding:0px;
     margin:0px;
@@ -78,5 +78,5 @@ h2 {
     display: inline-block;
     width: 50%;
     text-align: center;
-    
+
 }
