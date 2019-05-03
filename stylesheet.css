@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: 'Caveat', cursive;
 }
 
 body {
@@ -15,11 +16,11 @@ body {
 }
 
 .boardContainer {
-    background-color: rgba(217, 217, 217, 1);
+    background-color: blue;
     width: 600px;
     height: 800px;
     margin: 40px auto;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 10px rgba(0, 0, 0, 0.19);
     }
 
 .titleContainer {
@@ -31,20 +32,28 @@ body {
     text-align: center;
 }
 
-.nameCard {
-    .position: relative;
-    float: left;
-    display: block;
-    text-align: center;
-    width: 50.1%;
-    border: 1px solid black;
-    margin: 2px;
-    cursor: pointer;
-}
 
 .attendanceContainer {
     padding: 5px;
-    margin-top: 5px;
+    background-color: rgb(218, 218, 214);
+    background-image: url("metallic-effect-in-photoshop.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+.nameCard {
+    float: left;
+    .padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    width: 50.1%;
+    height: 60px;
+    border: 1px solid black;
+    margin: 2px 0px;
+    cursor: pointer;
+    background-image: url("achtergrond-naamplaat.jpg");
+    background-size: cover;
+    
 }
 
 .status{
