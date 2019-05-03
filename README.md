@@ -8,9 +8,9 @@ Steps to take:
 
 2. Make simple wireframe on paper according to plan   -DONE-
 
-3. Setup initial HTML file
+3. Setup initial HTML file -DONE-
 
-4. Setup initial content with practice data
+4. Setup initial content with practice data -DONE-
 
 5. Use CSS and jQuery to create basic functionality according to wireframe
 
