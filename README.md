@@ -6,7 +6,7 @@ Steps to take:
 
 1. Create simple plan                                 -DONE-
 
-2. Make simple wireframe on paper according to plan
+2. Make simple wireframe on paper according to plan   -DONE-
 
 3. Setup initial HTML file
 
