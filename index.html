@@ -8,22 +8,58 @@
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <title>Aanwezigheidsbord CodeGorilla 2019</title>
+
+    <script>
+        $(document).ready(function(){
+                $(".nameCard").click(function(){
+                    if ($(this).css("float") == "left") {                       
+                    $(this).css("float", "right");
+                    } else if ($(this).css("float") == "right") {
+                        $(this).css("float", "left"); 
+                    }
+            });
+        });
+    </script>
+
 </head>
 <body>
     <div class='mainContainer'>
         <div class="boardContainer">
             <div class="titleContainer">
                 <p><h1>ATTENDANCE BOARD</h1></p>
+                <button>Click to reset</button><hr>
+                    <div class="leftAlign">
+                        <p><h3>AANWEZIG</h3></p>
+                    </div>
+                    <DIV class="rightAlign">
+                        <p><h3>NIET AANWEZIG</h3></p>
+                    </DIV>
+                  
             </div>    
             <div class='attendanceContainer'>
-                <div class="nameCard">
-                    <p><span class='nameLeft'>Michael Schmidt Crans</span><span class='posRight'>Student</span></p>                   
-                    <p><span class='nameLeft'>Aletta Hoekstra</span><span class='posRight'>Student</span></p>  
-                    <p><span class='nameLeft'>Jeroen de Reus</span><span class='posRight'>Student</span></p> 
-                    <p><span class='nameLeft'>Jelle van der Schaaf</span><span class='posRight'>Student</span></p> 
-                    <p><span class='nameLeft'>Mike Jongsma</span><span class='posRight'>Coach</span></p> 
-                    <p><span class='nameLeft'>Floris Knol</span><span class='posRight'>Coach</span></p>     
-                </div>             
+                    <div class="nameCard" id="test">
+                        <p><span>Michael Schmidt Crans</span></p>
+                    </div>
+                    <div><hr></div>
+                    <div class="nameCard">                   
+                        <p><span>Aletta Hoekstra</span></p>
+                    </div >
+                    
+                    <div class="nameCard">
+                        <p><span>Jeroen de Reus</span></p>
+                    </div>
+                    
+                    <div class="nameCard">
+                        <p><span>Jelle van der Schaaf</span></p>
+                    </div>
+                    
+                    <div class="nameCard">
+                        <p><span>Mike Jongsma</span></p>
+                    </div>
+                    
+                    <div class="nameCard">
+                        <p><span>Floris Knol</span></p>
+                    </div>                 
             </div>
         </div>
     </div>

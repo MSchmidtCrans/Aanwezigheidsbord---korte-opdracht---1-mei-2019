@@ -19,18 +19,55 @@ body {
     width: 600px;
     height: 800px;
     margin: 40px auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
 .titleContainer {
     background: grey;
     color: white;
     width: auto;
-    height: 15%;
-    padding: 15px;
+    height: auto;
+    padding-top: 15px;
     text-align: center;
 }
 
-.attendanceContainer {
-    text-align: left;
+.nameCard {
+    .position: relative;
+    float: left;
+    display: block;
+    text-align: center;
+    width: 50.1%;
+    border: 1px solid black;
+    margin: 2px;
+    cursor: pointer;
 }
 
+.attendanceContainer {
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.status{
+    padding: 0px;
+    margin: 0px;
+}
+  
+h2 {
+    padding:0px;
+    margin:0px;
+}
+
+.leftAlign {
+    display: inline-block;
+    float: left;
+    width: 50%;
+    height: 2px;
+    text-align: center;
+}
+
+.rightAlign {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    
+}
