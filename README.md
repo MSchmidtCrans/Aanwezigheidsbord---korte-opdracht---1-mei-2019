@@ -12,11 +12,11 @@ Steps to take:
 
 4. Setup initial content with practice data -DONE-
 
-5. Use CSS and jQuery to create basic functionality according to wireframe
+5. Use CSS and jQuery to create basic functionality according to wireframe -DONE-
 
-6. When complete: use CSS to setup styling on the entire page
+6. When complete: use CSS to setup styling on the entire page -DONE-
 
-7. Clean up HTML, CSS and jQuery for readability
+7. Clean up HTML, CSS and jQuery for readability 
 
 8. Publish finished page to coaches
 
